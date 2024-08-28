@@ -1,0 +1,56 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: cursive, 'Times New Roman', Times, serif;
+}
+
+
+body{
+
+    background-color: rgb(235, 201, 243);
+
+}
+
+#cabecalho{
+
+    width: 100%;
+    background-color: rgb(177, 100, 173) ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-align:center;
+    margin-block-end: 20px;
+    padding-top: 20px;
+}
+
+#menu{
+
+    text-align: right;
+    padding: 20px;
+    margin-right: 15px;
+    color: aliceblue;
+   
+}
+
+#subsecao{
+
+    text-align: center;
+    margin-block-end: 5%;
+    color: indigo;
+    box-sizing: content-box;
+  
+    text-align: center;
+    height: 60px;
+    
+    padding-top: px;
+
+}
+
+#receitas{
+
+    margin: 20px;
+
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
