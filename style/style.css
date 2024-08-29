@@ -36,11 +36,9 @@ body{
     text-align: center;
     margin-block-end: 5%;
     color: indigo;
-    box-sizing: content-box;
-  
+    box-sizing: content-box;  
     text-align: center;
-    height: 60px;
-    
+    height: 60px;    
     padding-top: px;
 
 }
@@ -48,10 +46,10 @@ body{
 #receitas{
 
     width: 300px;
-    margin: 20px;
+    margin: 200px;
     margin-left: auto;
     margin-right: auto;
-    text-align: center;
+    text-align: auto;
 
 }
 
@@ -59,7 +57,8 @@ img{
 
     width: 400px;
     height: 200px;
-    h
+    image-orientation: auto;
+    
 }
 
 span{

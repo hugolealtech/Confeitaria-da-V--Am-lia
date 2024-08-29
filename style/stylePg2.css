@@ -1,0 +1,70 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+header, footer{
+    width: 100%;
+    padding: 10px 0px;
+    background-color: rgb(160, 120, 127);
+    color: white;
+}
+ header h3, header p{ /*herança*/
+    margin: 5px 20px ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+main{
+
+    width: 90%;
+    padding: 10px;
+    background-color: gray;
+    border-radius: 5px;
+    margin: 10px auto;
+    height: 1100px;
+    
+
+}
+
+#sobreEmpresa{
+    
+    width: 80%;
+    float: left;
+    text-align: center;
+    margin: auto
+    
+}
+
+/* #sobreEmpresa p{
+    
+    width: 80%;
+    float: left; 
+    text-align: center;
+     width:100%; 
+    
+} */
+#menuLinks{
+
+    width: 15%;
+    float: right;
+    background-color: rgb(209, 149, 149);
+    text-align: center;
+    border-radius: 10px;
+    color: chocolate;
+
+}
+
+#sobreEmpresa img{
+
+    width: 80%;
+    margin:auto; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+
+
+
+
